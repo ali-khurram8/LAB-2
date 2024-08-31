@@ -1,0 +1,7 @@
+Ask the user to enter diviosr
+Ask the user to enter n-number
+Ask the user to divide n by divisor
+Check if the number is integer
+Ask the user to divide the number by 2=0
+PRINT "EVEN"
+ELSE "ODD"
