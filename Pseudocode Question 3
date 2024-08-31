@@ -1,0 +1,12 @@
+START
+Ask the user to enter number 1 
+Ask the user to enter number 2
+Read number 1,2
+Ask the user for operators + or -
+Read operator
+Perform calculation based on the operator
+IF the operator is +
+Answer =number 1 + number 2
+ELSE the operator is -
+Answer =number 1 - number 2
+ELSE PRINT "operator is invalid,use operator + or -"
