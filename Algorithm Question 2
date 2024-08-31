@@ -1,0 +1,26 @@
+Ask the user to enter number between 1-12
+Enter number 1
+PRINT "January"
+ELSE number 2
+PRINT "February"
+ELSE number 3
+PRINT "March"
+ELSE number 4 
+PRINT "April"
+ELSE number 5
+PRINT "MAY"
+ELSE number 6
+PRINT "June"
+ELSE number 7
+PRINT "July"
+ELSE number 8
+PRINT "August"
+ELSE number 9
+PRINT "September"
+ELSE number 10 
+PRINT "October"
+ELSE number 11
+PRINT "November"
+ELSE number 12
+PRINT "December"
+ELSE PRINT "invalid number"
