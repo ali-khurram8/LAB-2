@@ -1,1 +1,23 @@
-
+START
+Ask the user to enter number 1
+Ask the user to enter number 2
+Read number 1,2
+Ask the user for operators +, -, *, /, %
+Read the operator
+Perform the calculation based on the operator
+IF operator IS '+
+result = num1 + num2
+ELSE IF operator IS '-'
+result = num1 - num2
+ELSE IF operator IS '*'
+result = num1 * num2
+ELSE IF operator IS '/'
+Check num2 IS NOT 0
+PRINT result = num1 / num2
+ELSE IF operator IS '%'
+PRINT result = num1 % num2
+ELSE
+PRINT "Invalid operator. Please enter one of +, -, *, /, %."
+EXIT
+PRINT "The result is:",
+END
